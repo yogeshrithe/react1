@@ -1,0 +1,12 @@
+.text_effects{
+    text-shadow: 2px 4px 1px red;
+}
+.word_wrap{
+    word-wrap: break-word;
+    width: 400px;
+    border: 2px solid red;
+}
+.no_wrap{
+    width: 300px;
+    border: 2px solid red;
+}
